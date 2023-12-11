@@ -1,0 +1,24 @@
+{
+  "usuarios": [
+    {
+      "username": "oñaaa",
+      "email": "aaaaaaaaaa",
+      "edad": 23,
+      "password": "mami",
+      "matricula": "mmmmmm",
+      "modelo": "oñaaaaaaaa",
+      "jornada": "Diurno",
+      "role": "conductor",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "username": "uña2",
+      "email": "23",
+      "edad": 31,
+      "password": "papu",
+      "jornada": "Diurno",
+      "role": "pasajero"
+    }
+  ]
+}

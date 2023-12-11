@@ -1,0 +1,37 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>Perfil</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Mi perfil</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-card>
+    <ion-item>
+      <ion-label>Usuario: </ion-label>
+      <ion-input [(ngModel)]="username" > </ion-input>
+
+    </ion-item> 
+    
+    <ion-item>
+      <ion-label>Email: </ion-label>
+      <ion-input [(ngModel)]="email" > </ion-input>
+      
+    </ion-item> 
+    <ion-item *ngIf="ObtenerRol()==='conductor'">
+      <ion-label>Modelo: </ion-label>
+      <ion-input [(ngModel)]="modelo" > </ion-input>
+    </ion-item>
+
+  
+  <ion-button (click)="ActualizarDatos()" expand="block" color="success">
+    Actualizar
+  </ion-button>
+    
+  </ion-card>
+</ion-content>
