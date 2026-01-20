@@ -10,7 +10,7 @@ A continuación se muestran ejemplos de la interfaz de usuario en las pantallas 
 
 | Pantalla de Inicio | Pantalla de Información |
 | :---: | :---: |
-| ![Inicio](assets/screenshot_inicio.png) | ![Información](assets/screenshot_info.png) |
+| ![Inicio](assets/inicio.jpeg) | ![Información](assets/info.jpeg) |
 
 ## Características Principales
 
