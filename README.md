@@ -4,6 +4,14 @@
 
 La aplicación conecta a conductores que cuentan con vehículo propio con pasajeros que necesitan un trayecto, promoviendo un retorno seguro, económico y fortaleciendo la comunidad estudiantil.
 
+## Vista Previa de la Aplicación
+
+A continuación se muestran ejemplos de la interfaz de usuario en las pantallas principales:
+
+| Pantalla de Inicio | Pantalla de Información |
+| :---: | :---: |
+| ![Inicio](assets/screenshot_inicio.png) | ![Información](assets/screenshot_info.png) |
+
 ## Características Principales
 
 * **Registro de Usuarios Diferenciado**: Permite el registro tanto de pasajeros como de conductores, solicitando a estos últimos datos específicos como matrícula y modelo del vehículo.
